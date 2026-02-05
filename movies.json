@@ -1,0 +1,187 @@
+[
+  {
+    "year": 1990,
+    "watched": false,
+    "movie": "Goodfellas"
+  },
+  {
+    "year": 1991,
+    "watched": false,
+    "movie": "Only Yesterday"
+  },
+  {
+    "year": 1992,
+    "watched": true,
+    "movie": "Porco Rosso"
+  },
+  {
+    "year": 1993,
+    "watched": false,
+    "movie": "Ninja Scroll"
+  },
+  {
+    "year": 1994,
+    "watched": false,
+    "movie": "Junior"
+  },
+  {
+    "year": 1995,
+    "watched": false,
+    "movie": "Whisper of the Heart"
+  },
+  {
+    "year": 1996,
+    "watched": false,
+    "movie": "The Substitute"
+  },
+  {
+    "year": 1997,
+    "watched": false,
+    "movie": "Perfect Blue"
+  },
+  {
+    "year": 1998,
+    "watched": false,
+    "movie": "Rushmore"
+  },
+  {
+    "year": 1999,
+    "watched": false,
+    "movie": "Galaxy Quest"
+  },
+  {
+    "year": 2000,
+    "watched": false,
+    "movie": "Ready to Rumble"
+  },
+  {
+    "year": 2001,
+    "watched": false,
+    "movie": "Millenium Actress"
+  },
+  {
+    "year": 2002,
+    "watched": false,
+    "movie": "Gangs of New York"
+  },
+  {
+    "year": 2003,
+    "watched": false,
+    "movie": "Tokyo Godfathers"
+  },
+  {
+    "year": 2004,
+    "watched": false,
+    "movie": "Million Dollar Baby"
+  },
+  {
+    "year": 2005,
+    "watched": false,
+    "movie": "Cinderella Man"
+  },
+  {
+    "year": 2006,
+    "watched": false,
+    "movie": "Pan's Labyrinth"
+  },
+  {
+    "year": 2007,
+    "watched": false,
+    "movie": "No Country for Old Men"
+  },
+  {
+    "year": 2008,
+    "watched": false,
+    "movie": "The Wrestler (and also Speed Racer)"
+  },
+  {
+    "year": 2009,
+    "watched": false,
+    "movie": "Dragonball Evolution"
+  },
+  {
+    "year": 2010,
+    "watched": false,
+    "movie": "Shutter Island"
+  },
+  {
+    "year": 2011,
+    "watched": false,
+    "movie": "The Raid: Redemption"
+  },
+  {
+    "year": 2012,
+    "watched": false,
+    "movie": "Wolf Children"
+  },
+  {
+    "year": 2013,
+    "watched": false,
+    "movie": "The Tale of Princess Kaguya"
+  },
+  {
+    "year": 2014,
+    "watched": false,
+    "movie": "The Grand Budapest Hotel or The Raid 2 (Coin Flip)"
+  },
+  {
+    "year": 2015,
+    "watched": false,
+    "movie": "The Boy and the Beast"
+  },
+  {
+    "year": 2016,
+    "watched": false,
+    "movie": "Kubo and the Two Strings"
+  },
+  {
+    "year": 2017,
+    "watched": false,
+    "movie": "The Disaster Artist"
+  },
+  {
+    "year": 2018,
+    "watched": false,
+    "movie": "BlacKkKlansman"
+  },
+  {
+    "year": 2019,
+    "watched": false,
+    "movie": "Parasite"
+  },
+  {
+    "year": 2020,
+    "watched": false,
+    "movie": "Soul"
+  },
+  {
+    "year": 2021,
+    "watched": false,
+    "movie": "Belle"
+  },
+  {
+    "year": 2022,
+    "watched": false,
+    "movie": "Glass Onion"
+  },
+  {
+    "year": 2023,
+    "watched": false,
+    "movie": "The Iron Claw and Oppenheimer"
+  },
+  {
+    "year": 2024,
+    "watched": false,
+    "movie": "The Wild Robot"
+  },
+  {
+    "year": 2025,
+    "watched": false,
+    "movie": "Superman and The Smashing Machine, and also Marty Supreme"
+  },
+  {
+    "year": 2026,
+    "watched": false,
+    "movie": "test movie 36"
+  }
+]
